@@ -1,0 +1,5 @@
+<Category> Chevy Tahoe 2014 //adjust prices to suit your own server. VNK means no Trader key issues (change to V if you want key issued)
+		Tahoe_Black, 			VNK,	50000,	25000
+		Tahoe_White, 			VNK,	50000,	25000
+		Tahoe_Blue, 			VNK,	50000,	25000
+		Tahoe_Red, 			VNK,	50000,	25000

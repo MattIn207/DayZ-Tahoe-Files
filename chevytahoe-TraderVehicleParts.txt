@@ -1,0 +1,71 @@
+<VehicleParts>Tahoe_Black
+	HeadlightH7
+	HeadlightH7
+	CarRadiator
+	SparkPlug
+	CarBattery
+	Tahoe_CarMainWheel
+	Tahoe_CarMainWheel
+	Tahoe_CarMainWheel
+	Tahoe_CarMainWheel
+	Tahoe_CarMainWheel
+	Tahoe_Car_Driver_door_Black
+	Tahoe_Car_Codriver_door_Black
+	Tahoe_Car_Cargo1_door_Black
+	Tahoe_Car_Cargo2_door_Black
+	Tahoe_Car_Hood_Black
+	Tahoe_Car_Trunk_Black
+
+<VehicleParts>Tahoe_White
+	HeadlightH7
+	HeadlightH7
+	CarRadiator
+	SparkPlug
+	CarBattery
+	Tahoe_CarMainWheel
+	Tahoe_CarMainWheel
+	Tahoe_CarMainWheel
+	Tahoe_CarMainWheel
+	Tahoe_CarMainWheel
+	Tahoe_Car_Driver_door_White
+	Tahoe_Car_Codriver_door_White
+	Tahoe_Car_Cargo1_door_White
+	Tahoe_Car_Cargo2_door_White
+	Tahoe_Car_Hood_White
+	Tahoe_Car_Trunk_White
+
+<VehicleParts>Tahoe_Red
+	HeadlightH7
+	HeadlightH7
+	CarRadiator
+	SparkPlug
+	CarBattery
+	Tahoe_CarWheel
+	Tahoe_CarWheel
+	Tahoe_CarWheel
+	Tahoe_CarWheel
+	Tahoe_CarWheel
+	Tahoe_Car_Driver_door_Red
+	Tahoe_Car_Codriver_door_Red
+	Tahoe_Car_Cargo1_door_Red
+	Tahoe_Car_Cargo2_door_Red
+	Tahoe_Car_Hood_Red
+	Tahoe_Car_Trunk_Red
+
+<VehicleParts>Tahoe_Blue
+	HeadlightH7
+	HeadlightH7
+	CarRadiator
+	SparkPlug
+	CarBattery
+	Tahoe_CarWheel
+	Tahoe_CarWheel
+	Tahoe_CarWheel
+	Tahoe_CarWheel
+	Tahoe_CarWheel
+	Tahoe_Car_Driver_door_Blue
+	Tahoe_Car_Codriver_door_Blue
+	Tahoe_Car_Cargo1_door_Blue
+	Tahoe_Car_Cargo2_door_Blue
+	Tahoe_Car_Hood_Blue
+	Tahoe_Car_Trunk_Blue
